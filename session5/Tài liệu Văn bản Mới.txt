@@ -1,0 +1,7 @@
+tao ssh key: ssh-keygen
+clone code ve: git clone duong_dan_git
+----
+nop bai tap:
+git add .
+git commit -m"nop bai...."
+git push origin master
